@@ -1,0 +1,340 @@
+Filename,Touches
+2DRove/Assets/New Scene.unity,2
+2DRove/Assets/New Scene.unity.meta,2
+2DRove/Assets/Player.cs,7
+2DRove/Assets/Player.cs.meta,5
+2DRove/Assets/PlayerController.inputactions,7
+2DRove/Assets/PlayerController.inputactions.meta,7
+2DRove/Assets/Scenes.meta,7
+2DRove/Assets/Scenes/SampleScene.unity,7
+2DRove/Assets/Wizard.png,3
+2DRove/Assets/Wizard.png.meta,3
+2DRove/Assets/Animation.meta,4
+2DRove/Assets/Animation/Idel_Left.anim,4
+2DRove/Assets/Animation/Idel_Left.anim.meta,4
+2DRove/Assets/Animation/Idle_Down.anim,4
+2DRove/Assets/Animation/Idle_Down.anim.meta,4
+2DRove/Assets/Animation/Idle_Right.anim,4
+2DRove/Assets/Animation/Idle_Right.anim.meta,4
+2DRove/Assets/Animation/Idle_Up.anim,4
+2DRove/Assets/Animation/Idle_Up.anim.meta,4
+2DRove/Assets/Animation/Player Movement.controller,4
+2DRove/Assets/Animation/Player Movement.controller.meta,4
+2DRove/Assets/Animation/WalkDown.anim,4
+2DRove/Assets/Animation/WalkDown.anim.meta,4
+2DRove/Assets/Animation/WalkLeft.anim,4
+2DRove/Assets/Animation/WalkLeft.anim.meta,4
+2DRove/Assets/Animation/WalkRIght.anim,4
+2DRove/Assets/Animation/WalkRIght.anim.meta,4
+2DRove/Assets/Animation/WalkUp.anim,4
+2DRove/Assets/Animation/WalkUp.anim.meta,4
+2DRove/Assets/Level 00.unity,4
+2DRove/Assets/Level 00.unity.meta,4
+2DRove/Assets/Prefabs.meta,4
+2DRove/Assets/Prefabs/Coins.prefab,4
+2DRove/Assets/Prefabs/Coins.prefab.meta,4
+2DRove/Assets/Prefabs/EnemyDummy.prefab,4
+2DRove/Assets/Prefabs/EnemyDummy.prefab.meta,4
+2DRove/Assets/Prefabs/HealthPotion.prefab,4
+2DRove/Assets/Prefabs/HealthPotion.prefab.meta,4
+2DRove/Assets/Prefabs/Player.prefab,4
+2DRove/Assets/Prefabs/Player.prefab.meta,4
+2DRove/Assets/Prefabs/TestAttack.prefab,4
+2DRove/Assets/Prefabs/TestAttack.prefab.meta,4
+2DRove/Assets/Prefabs/TestEnemyAttack.prefab,4
+2DRove/Assets/Prefabs/TestEnemyAttack.prefab.meta,4
+2DRove/Assets/Scenes/Level_00.unity,4
+2DRove/Assets/Scenes/Level_00.unity.meta,4
+2DRove/Assets/Scenes/MainMenu.unity,4
+2DRove/Assets/Scenes/MainMenu.unity.meta,4
+2DRove/Assets/Scenes/SampleScene.unity.meta,3
+2DRove/Assets/Scripts.meta,4
+2DRove/Assets/Scripts/CameraTrackingPlayer.cs,4
+2DRove/Assets/Scripts/EnemyGetDamage.cs,4
+2DRove/Assets/Scripts/EnemyGetDamage.cs.meta,4
+2DRove/Assets/Scripts/FloatToPlayer.cs,4
+2DRove/Assets/Scripts/FloatToPlayer.cs.meta,4
+2DRove/Assets/Scripts/GameOverMenu.cs,4
+2DRove/Assets/Scripts/GameOverMenu.cs.meta,4
+2DRove/Assets/Scripts/ItemPickUp.cs,4
+2DRove/Assets/Scripts/ItemPickUp.cs.meta,4
+2DRove/Assets/Scripts/MainMenu.cs,4
+2DRove/Assets/Scripts/MainMenu.cs.meta,4
+2DRove/Assets/Scripts/PlayerMovement.cs,4
+2DRove/Assets/Scripts/PlayerMovement.cs.meta,4
+2DRove/Assets/Scripts/PlayerStats.cs,4
+2DRove/Assets/Scripts/PlayerStats.cs.meta,4
+2DRove/Assets/Scripts/SpawnEnemy.cs,4
+2DRove/Assets/Scripts/SpawnEnemy.cs.meta,4
+2DRove/Assets/Scripts/TestAttack.cs,4
+2DRove/Assets/Scripts/TestAttack.cs.meta,4
+2DRove/Assets/Scripts/TestAttackProjectile.cs,4
+2DRove/Assets/Scripts/TestAttackProjectile.cs.meta,4
+2DRove/Assets/Scripts/TestEnemyAttack.cs,4
+2DRove/Assets/Scripts/TestEnemyAttack.cs.meta,4
+2DRove/Assets/Scripts/TestEnemyAttackProjectile.cs,4
+2DRove/Assets/Scripts/TestEnemyAttackProjectile.cs.meta,4
+2DRove/Assets/Scripts/TestEnemyMovement.cs,4
+2DRove/Assets/Scripts/TestEnemyMovement.cs.meta,4
+2DRove/Assets/Settings.meta,4
+2DRove/Assets/Settings/Lit2DSceneTemplate.scenetemplate,4
+2DRove/Assets/Settings/Lit2DSceneTemplate.scenetemplate.meta,4
+2DRove/Assets/Settings/Renderer2D.asset,4
+2DRove/Assets/Settings/Renderer2D.asset.meta,4
+2DRove/Assets/Settings/Scenes.meta,4
+2DRove/Assets/Settings/Scenes/URP2DSceneTemplate.unity,4
+2DRove/Assets/Settings/UniversalRP.asset,4
+2DRove/Assets/Settings/UniversalRP.asset.meta,4
+2DRove/Assets/Sprite.meta,4
+2DRove/Assets/Sprite/Coins.meta,4
+2DRove/Assets/Sprite/Coins/CoinSpinning.anim,4
+2DRove/Assets/Sprite/Coins/CoinSpinning.anim.meta,4
+2DRove/Assets/Sprite/Coins/CoinsAnimation.controller,4
+2DRove/Assets/Sprite/Coins/CoinsAnimation.controller.meta,4
+2DRove/Assets/Sprite/Coins/Gold_1.png,4
+2DRove/Assets/Sprite/Coins/Gold_1.png.meta,4
+2DRove/Assets/Sprite/Coins/Gold_10.png,4
+2DRove/Assets/Sprite/Coins/Gold_10.png.meta,4
+2DRove/Assets/Sprite/Coins/Gold_2.png,4
+2DRove/Assets/Sprite/Coins/Gold_2.png.meta,4
+2DRove/Assets/Sprite/Coins/Gold_3.png,4
+2DRove/Assets/Sprite/Coins/Gold_4.png,4
+2DRove/Assets/Sprite/Coins/Gold_4.png.meta,4
+2DRove/Assets/Sprite/Coins/Gold_5.png,4
+2DRove/Assets/Sprite/Coins/Gold_5.png.meta,4
+2DRove/Assets/Sprite/Coins/Gold_6.png,4
+2DRove/Assets/Sprite/Coins/Gold_6.png.meta,4
+2DRove/Assets/Sprite/Coins/Gold_7.png,4
+2DRove/Assets/Sprite/Coins/Gold_7.png.meta,4
+2DRove/Assets/Sprite/Coins/Gold_8.png,4
+2DRove/Assets/Sprite/Coins/Gold_8.png.meta,4
+2DRove/Assets/Sprite/Coins/Gold_9.png,4
+2DRove/Assets/Sprite/Coins/Gold_9.png.meta,4
+2DRove/Assets/Sprite/HealthPotion.meta,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 1.png,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 1.png.meta,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 2.png,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 2.png.meta,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 3.png,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 3.png.meta,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 4.png,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 4.png.meta,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 5.png,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 5.png.meta,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 6.png,4
+2DRove/Assets/Sprite/HealthPotion/Health Potion 6.png.meta,4
+2DRove/Assets/Sprite/HealthPotion/PotionAnimation.anim,4
+2DRove/Assets/Sprite/HealthPotion/PotionAnimation.anim.meta,4
+2DRove/Assets/Sprite/HealthPotion/PotionAnimationController.controller,4
+2DRove/Assets/Sprite/HealthPotion/PotionAnimationController.controller.meta,4
+2DRove/Assets/Sprite/Player.meta,4
+2DRove/Assets/Sprite/Player/spr_player_down_strip6.png,4
+2DRove/Assets/Sprite/Player/spr_player_down_strip6.png.meta,4
+2DRove/Assets/Sprite/Player/spr_player_left_strip6.png,4
+2DRove/Assets/Sprite/Player/spr_player_left_strip6.png.meta,4
+2DRove/Assets/Sprite/Player/spr_player_right_strip6.png,4
+2DRove/Assets/Sprite/Player/spr_player_right_strip6.png.meta,4
+2DRove/Assets/Sprite/Player/spr_player_up_strip6.png,4
+2DRove/Assets/Sprite/Player/spr_player_up_strip6.png.meta,4
+2DRove/Assets/TextMesh Pro.meta,4
+2DRove/Assets/TextMesh Pro/Documentation.meta,4
+2DRove/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf,4
+2DRove/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Prefabs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs.meta,4
+2DRove/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs,2
+2DRove/Assets/Scripts/CameraTrackingPlayer.cs.meta,2
+2DRove/Assets/Settings/Scenes/URP2DSceneTemplate.unity.meta,2
+2DRove/Assets/Sprite/Coins/Gold_3.png.meta,2
+GettingStarted.md,2
+GettingStarted.docx,2
+2DRove/.gitignore,1
+2DRove/.vscode/extensions.json,1
+2DRove/.vscode/launch.json,1
+2DRove/.vscode/settings.json,1
+2DRove/Packages/manifest.json,1
+2DRove/Packages/packages-lock.json,1
+2DRove/ProjectSettings/AudioManager.asset,1
+2DRove/ProjectSettings/ClusterInputManager.asset,1
+2DRove/ProjectSettings/DynamicsManager.asset,1
+2DRove/ProjectSettings/EditorBuildSettings.asset,1
+2DRove/ProjectSettings/EditorSettings.asset,1
+2DRove/ProjectSettings/GraphicsSettings.asset,1
+2DRove/ProjectSettings/InputManager.asset,1
+2DRove/ProjectSettings/MemorySettings.asset,1
+2DRove/ProjectSettings/NavMeshAreas.asset,1
+2DRove/ProjectSettings/NetworkManager.asset,1
+2DRove/ProjectSettings/PackageManagerSettings.asset,1
+2DRove/ProjectSettings/Physics2DSettings.asset,1
+2DRove/ProjectSettings/PresetManager.asset,1
+2DRove/ProjectSettings/ProjectSettings.asset,1
+2DRove/ProjectSettings/ProjectVersion.txt,1
+2DRove/ProjectSettings/QualitySettings.asset,1
+2DRove/ProjectSettings/SceneTemplateSettings.json,1
+2DRove/ProjectSettings/TagManager.asset,1
+2DRove/ProjectSettings/TimeManager.asset,1
+2DRove/ProjectSettings/UnityConnectSettings.asset,1
+2DRove/ProjectSettings/VFXManager.asset,1
+2DRove/ProjectSettings/VersionControlSettings.asset,1
+2DRove/ProjectSettings/XRSettings.asset,1
+README.md,2

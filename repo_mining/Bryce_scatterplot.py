@@ -8,7 +8,7 @@ plot.figure(figsize=(20,10))
 
 def parse_csv():
     data_list = []
-    csv_filepath = "./data/file_author_touchesrootbeer.csv"
+    csv_filepath = "./data/file_author_touches2024-S-GROUP2-2DRove.csv"
     with open(csv_filepath, 'r', newline='') as csvfile:
         csv_reader = csv.DictReader(csvfile)
         for row in csv_reader:
@@ -50,7 +50,7 @@ def scatter_plot():
     plot.gca().invert_xaxis()
     plot.legend(loc='center left', bbox_to_anchor=(1,0.5))
     plot.savefig('scatterplot.png', bbox_inches='tight')
-    #plot.show()
+    plot.show()
     
     
 scatter_plot()
