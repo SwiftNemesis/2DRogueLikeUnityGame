@@ -4,9 +4,12 @@ import numpy as np
 
 # GitHub Authentication function
 def github_auth(url, token):
-    headers = {'Authorization': 'Bearer {}'.format(token)}
+    headers = {'Authorization': 'token ' + token}
     response = requests.get(url, headers=headers)
-    return response.json()
+    data = response.json()
+    if 'next' in response.links:
+        data.extend(github_auth(response.links['next']['url'], token))
+    return data
 
 # Function to get the data for a specific repository
 def get_repo_data(username, repo_name, token):
@@ -87,6 +90,6 @@ def create_graph(repo_data):
 # Main part of the script
 username = 'UNLV-CS472-672'
 repo_name = '2024-S-GROUP2-2DRove'
-token = 'temp'
+token = ''
 repo_data = get_repo_data(username, repo_name, token)
 create_graph(repo_data)
